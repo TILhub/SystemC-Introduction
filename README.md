@@ -1,4 +1,4 @@
-#SystemC Quick Installation Guide
+#                   SystemC Quick Installation Guide
 ## Download SystemC 
 ### Works on any version of Visual Studio
 1. Download the SystemC source code (systemc-2.3.1.tgz) from http://www.accellera.org/.
