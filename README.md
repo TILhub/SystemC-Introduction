@@ -18,3 +18,6 @@ e.g. D:\systemc-2.3.1
 6. Set "Enable Run-Time Type Info" of the systemc project to "Yes".
 
 7. Add /vmg to "Additional Options" of the systemc project.
+
+# What Is SystemC
+### SystemC is a set of C++ classes and macros which provide an event-driven simulation interface (see also discrete event simulation). These facilities enable a designer to simulate concurrent processes, each described using plain C++ syntax.
