@@ -1,3 +1,5 @@
+ # Trivial Examples For Basic SystemC understanding
+
 #                   SystemC Quick Installation Guide
 ## Download SystemC 
 ### Works on any version of Visual Studio
@@ -19,5 +21,5 @@ e.g. D:\systemc-2.3.1
 
 7. Add /vmg to "Additional Options" of the systemc project.
 
-# What Is SystemC
-### SystemC is a set of C++ classes and macros which provide an event-driven simulation interface (see also discrete event simulation). These facilities enable a designer to simulate concurrent processes, each described using plain C++ syntax.
+### What Is SystemC
+##### SystemC is a set of C++ classes and macros which provide an event-driven simulation interface (see also discrete event simulation). These facilities enable a designer to simulate concurrent processes, each described using plain C++ syntax.
